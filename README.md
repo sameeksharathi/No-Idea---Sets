@@ -4,17 +4,18 @@ There is an array of  integers. There are also  disjoint sets,  and , each conta
 
 Note: Since  and  are sets, they have no repeated elements. However, the array might contain duplicate elements.
 
-Constraints
+Constraints:
+
 1<=n<=10^5
 1<=m<=10^5
 1<= Any Integer in Input <=10^9
 
-Input Format
+Input Format:
 
 The first line contains integers  and  separated by a space.
 The second line contains  integers, the elements of the array.
 The third and fourth lines contain  integers,  and , respectively.
 
-Output Format
+Output Format:
 
 Output a single integer, your total happiness.
